@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package ch13;
 
 class ThreadEx5 {
     static long startTime =0;
