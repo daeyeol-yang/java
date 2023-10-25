@@ -1,0 +1,23 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çâ¸œøÿÿÿÿ8ÇŸñ¶1
+D
+java:S2189$""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ÌŸñ¶1
+€
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‚¦¡ûûÿÿÿÿ8ĞŸñ¶1
+Q
+java:S1874"/Remove this use of "suspend"; it is deprecated.(Ô¼íşüÿÿÿÿ8ÑŸñ¶1
+Q
+java:S1874"/Remove this use of "suspend"; it is deprecated.(¬ş€Şùÿÿÿÿ8ÑŸñ¶1
+J
+java:S1874".Remove this use of "resume"; it is deprecated.(ÆØöz8ÑŸñ¶1
+N
+java:S1874",Remove this use of "stop"; it is deprecated.(‚ŠÏûÿÿÿÿ8ÒŸñ¶1
+N
+java:S1874",Remove this use of "stop"; it is deprecated.(ÎùÔùÿÿÿÿ8ÒŸñ¶1
+I
+java:S1874",Remove this use of "stop"; it is deprecated.(úÂö…8ÒŸñ¶1
+J	java:S108")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ8ÒŸñ¶1
+L	java:S106%"+Replace this use of System.out by a logger.(›Óğ°şÿÿÿÿ8ÓŸñ¶1
+{
+java:S2142("^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÔŸñ¶1
+E	java:S108(")Either remove or fill this block of code.(ä ¹€8ÔŸñ¶1

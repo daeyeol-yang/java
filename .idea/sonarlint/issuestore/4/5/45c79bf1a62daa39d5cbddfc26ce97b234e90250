@@ -1,0 +1,20 @@
+
+L
+java:S3740&"/Provide the parametrized type for this generic.(Û Âƒ8®®‚ûµ1
+Q
+java:S3740'"/Provide the parametrized type for this generic.(û‘ŽÃüÿÿÿÿ8®®‚ûµ1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ì™Á©úÿÿÿÿ8®®‚ûµ1
+n	java:S101 "MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²ñºžÿÿÿÿÿ8¯®‚ûµ1
+h
+java:S2184"FCast one of the operands of this multiplication operation to a "long".(ßÐÃ’ýÿÿÿÿ8¯®‚ûµ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çâ¸œøÿÿÿÿ8¯®‚ûµ1
+W
+java:S1161":Add the "@Override" annotation above this method signature(“–ýþ8¼®‚ûµ1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8¼®‚ûµ1
+E	java:S108")Either remove or fill this block of code.(ä ¹€8¼®‚ûµ1
+W
+java:S1161%":Add the "@Override" annotation above this method signature(“–ýþ8½®‚ûµ1
+L	java:S106/"+Replace this use of System.out by a logger.(ÃÀ¥àùÿÿÿÿ8¾®‚ûµ1
+L	java:S1064"+Replace this use of System.out by a logger.(ýéÑÇüÿÿÿÿ8¾®‚ûµ1
+L	java:S1066"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8¿®‚ûµ1
