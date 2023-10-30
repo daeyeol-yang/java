@@ -123,8 +123,6 @@ Q.idea/sonarlint/securityhotspotstore/8/8/88a9255124c95bdc913197c120a8d560edc59c
 Å
 Q.idea/sonarlint/securityhotspotstore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0,b/b/bbf202272a96de5cd6b6828ffdc55fb3ce45289c
 Å
-Q.idea/sonarlint/securityhotspotstore/a/9/a965eb06d0a9b2fe4c82ef55806294f53c39e83f,2/0/20e143bd6465197c48ceba5f6dbcf825c5b19bfe
-Å
 Q.idea/sonarlint/securityhotspotstore/b/1/b1c71a1302141518d4d491d11b2556fd1df4274c,1/b/1bf3794adc937d17a8aa1836be392388a1739871
 Å
 Q.idea/sonarlint/securityhotspotstore/d/1/d114429309ddaeace0d50403b18698b0bf086ace,9/8/98bbbef3a7cb372ca35ed7477f2e10c6c4be5936
@@ -144,3 +142,9 @@ K
 src/ch13/ThreadWaitEx3.java,8/e/8e813aa7a107c97ba4ef588597d82558684501c3
 H
 src/ch13/ThreadEx21.java,3/d/3d2926e8f486c159cc05fad0f0ea020b3e14608e
+D
+src/ch02/VarEx1.java,1/2/125fa4886746ea3cf3dacf4eab0f0de088c7644b
+D
+src/ch02/VarEx2.java,2/e/2e205cb7b4f220a735ca230bf061b84ef2545139
+F
+src/ch02/StringEx.java,e/e/eefc956f278befc77125ae147aa46379c6526a71
