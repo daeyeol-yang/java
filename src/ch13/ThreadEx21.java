@@ -27,6 +27,8 @@ class Account1{
     }
 }
 
+
+
 class RunnableEx21 implements Runnable{
     Account1 acc = new Account1();
 
