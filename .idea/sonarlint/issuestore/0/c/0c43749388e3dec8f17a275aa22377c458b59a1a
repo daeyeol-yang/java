@@ -1,0 +1,18 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8µ‚í«¿1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í‡¤³ûÿÿÿÿ8·‚í«¿1
+]	java:S125"<This block of commented-out lines of code should be removed.(ŠÛÖ‹øÿÿÿÿ8º‚í«¿1
+L	java:S106"+Replace this use of System.out by a logger.(â‚Ÿùÿÿÿÿ8»‚í«¿1
+^
+java:S2438"AReplace "argument 1" of type Thread with an instance of Runnable.(ªþ¸8¼‚í«¿1
+c
+java:S2438"AReplace "argument 1" of type Thread with an instance of Runnable.(°ÅíŒúÿÿÿÿ8¼‚í«¿1
+L	java:S106-"+Replace this use of System.out by a logger.(©þêÜúÿÿÿÿ8¾‚í«¿1
+W
+java:S11611":Add the "@Override" annotation above this method signature(“–ýþ8¾‚í«¿1
+L	java:S106:"+Replace this use of System.out by a logger.(©þêÜúÿÿÿÿ8¾‚í«¿1
+L	java:S106G"+Replace this use of System.out by a logger.(©þêÜúÿÿÿÿ8¿‚í«¿1
+W
+java:S1161K":Add the "@Override" annotation above this method signature(“–ýþ8¿‚í«¿1
+L	java:S106N"+Replace this use of System.out by a logger.(ë÷â±üÿÿÿÿ8¿‚í«¿1
+L	java:S106P"+Replace this use of System.out by a logger.(©þêÜúÿÿÿÿ8¿‚í«¿1

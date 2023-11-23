@@ -1,0 +1,22 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Éêò«¿1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í‡¤³ûÿÿÿÿ8Ëêò«¿1
+X
+java:S1854"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ8™‹£¬¿1
+G	java:S106"+Replace this use of System.out by a logger.(­©—8Ğêò«¿1
+L	java:S106"+Replace this use of System.out by a logger.(â‚Ÿùÿÿÿÿ8Óêò«¿1
+I
+java:S1481"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ8œ‹£¬¿1
+^
+java:S2438"AReplace "argument 1" of type Thread with an instance of Runnable.(ªş¸8Òêò«¿1
+c
+java:S2438"AReplace "argument 1" of type Thread with an instance of Runnable.(°ÅíŒúÿÿÿÿ8Òêò«¿1
+L	java:S106."+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8Ôêò«¿1
+W
+java:S11612":Add the "@Override" annotation above this method signature(“–ış8Ôêò«¿1
+L	java:S106;"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8Õêò«¿1
+L	java:S106H"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8Õêò«¿1
+W
+java:S1161L":Add the "@Override" annotation above this method signature(“–ış8Õêò«¿1
+L	java:S106O"+Replace this use of System.out by a logger.(ë÷â±üÿÿÿÿ8Õêò«¿1
+L	java:S106Q"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8“Â¢¬¿1

@@ -1,0 +1,16 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í‡¤³ûÿÿÿÿ8…ò„ª¿1
+g
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ÚÂßµ8÷…ª¿1
+L	java:S106"+Replace this use of System.out by a logger.(ø—‘üÿÿÿÿ8Šò„ª¿1
+L	java:S106"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8‹ò„ª¿1
+L	java:S106-"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8Œò„ª¿1
+W
+java:S11610":Add the "@Override" annotation above this method signature(“–ış8Œò„ª¿1
+L	java:S1067"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ò„ª¿1
+L	java:S106G"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ò„ª¿1
+W
+java:S1161J":Add the "@Override" annotation above this method signature(“–ış8ò„ª¿1
+L	java:S106M"+Replace this use of System.out by a logger.(ë÷â±üÿÿÿÿ8ò„ª¿1
+Q
+java:S1128"4Remove this unused import 'java.net.DatagramPacket'.(°í“Å8ı…ª¿1

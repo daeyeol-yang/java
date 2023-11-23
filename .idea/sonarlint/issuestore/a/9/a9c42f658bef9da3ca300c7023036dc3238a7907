@@ -1,0 +1,15 @@
+
+g	java:S112)"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8­ýƒú¾1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í‡¤³ûÿÿÿÿ8®ýƒú¾1
+g
+java:S2259"JA "NullPointerException" could be thrown; "serverSocket" is nullable here.(âÕ´¤8³ýƒú¾1
+D
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8³ýƒú¾1
+L	java:S106"+Replace this use of System.out by a logger.(§ì°œùÿÿÿÿ8µýƒú¾1
+L	java:S106"+Replace this use of System.out by a logger.(©þêÜúÿÿÿÿ8µýƒú¾1
+L	java:S106"+Replace this use of System.out by a logger.(„Ðºàýÿÿÿÿ8µýƒú¾1
+G	java:S106"+Replace this use of System.out by a logger.(Ùæª‚8µýƒú¾1
+L	java:S106$"+Replace this use of System.out by a logger.(Ä¹ˆŒüÿÿÿÿ8¶ýƒú¾1
+V
+java:S1128
+"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8Â¬…ú¾1
