@@ -1,12 +1,8 @@
 
 g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Éêò«¿1
 {	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í‡¤³ûÿÿÿÿ8Ëêò«¿1
-X
-java:S1854"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ8™‹£¬¿1
 G	java:S106"+Replace this use of System.out by a logger.(­©—8Ğêò«¿1
 L	java:S106"+Replace this use of System.out by a logger.(â‚Ÿùÿÿÿÿ8Óêò«¿1
-I
-java:S1481"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ8œ‹£¬¿1
 ^
 java:S2438"AReplace "argument 1" of type Thread with an instance of Runnable.(ªş¸8Òêò«¿1
 c
