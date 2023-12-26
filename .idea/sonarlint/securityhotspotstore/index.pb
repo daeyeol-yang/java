@@ -182,3 +182,15 @@ R
 "src/ch16/TcpIpMultichatServer.java,2/7/27e4785e12e520615eaa1474bfc29d0664c80341
 S
 #src/ch16/TcpIpMultichatClient2.java,0/c/0c43749388e3dec8f17a275aa22377c458b59a1a
+C
+src/ch6/TvTest.java,4/8/482b2b035ba403ea9e585e03ef59de34b070e4f6
+D
+src/ch6/TvTest4.java,1/8/18e0924991cbdf1ca5008700bb46e48be4017eb8
+J
+src/ch08/ExceptionEx9.java,2/5/25396dcd3a367c079da52593c3ce2e7e90b69e83
+A
+src/ch6/Card.java,2/b/2b147bee1cd77215596b24ce655dc0dc5272b891
+E
+src/ch6/CardTest.java,a/1/a1d8438be41b552846b2ac7ca9443d205d725de4
+F
+src/ch6/BlockTest.java,d/3/d37abe0ccc1c249bae37630a418d02a60e58fcd2
