@@ -9,6 +9,7 @@ public class DeckTest {
         d.shuffle();
         c= d.pick(0);
         System.out.println(c);
+        //System.out.println(c.toString());
 
     }
 }
