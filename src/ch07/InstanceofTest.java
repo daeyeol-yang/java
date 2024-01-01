@@ -22,6 +22,6 @@ public class InstanceofTest {
 
 
 }
-class Car{}
+class Car{ }
 
 class FireEngine extends Car{}
