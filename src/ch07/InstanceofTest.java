@@ -9,7 +9,7 @@ public class InstanceofTest {
             System.out.println("This is a FireEngine instance.");
         }
 
-        if (fe instanceof Car){
+        if (fe instanceof Car1){
             System.out.println("This is a Car instance.");
         }
 
@@ -24,4 +24,4 @@ public class InstanceofTest {
 }
 class Car{ }
 
-class FireEngine extends Car{}
+class FireEngine extends Car1 {}
