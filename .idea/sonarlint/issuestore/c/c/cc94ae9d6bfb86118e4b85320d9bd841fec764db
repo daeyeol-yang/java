@@ -1,0 +1,26 @@
+
+Q
+java:S3740'"/Provide the parametrized type for this generic.(„šşÿÿÿÿ8¡–©ĞÎ1
+Q
+java:S3740'"/Provide the parametrized type for this generic.(„šşÿÿÿÿ8¡–©ĞÎ1
+>
+java:S1643K"Use a StringBuilder instead.(òÜñúıÿÿÿÿ8¡–©ĞÎ1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬¥í"8¢–©ĞÎ1
+Z
+java:S1854
+"=Remove this useless assignment to local variable "computer1".(ŸØˆÿ8•é¬ĞÎ1
+K
+java:S1481
+".Remove this unused "computer1" local variable.(ŸØˆÿ8–é¬ĞÎ1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8©–©ĞÎ1
+‡
+java:S1149'"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(„šşÿÿÿÿ8ª–©ĞÎ1
+G	java:S106,"+Replace this use of System.out by a logger.(Ç€Ï°8«–©ĞÎ1
+G	java:S1062"+Replace this use of System.out by a logger.(±ã¡ 8«–©ĞÎ1
+G	java:S1069"+Replace this use of System.out by a logger.(ï™æó8«–©ĞÎ1
+G	java:S106;"+Replace this use of System.out by a logger.(Ş­›8«–©ĞÎ1
+G	java:S106D"+Replace this use of System.out by a logger.(Ãóùï8¬–©ĞÎ1
+W
+java:S1117H"5Rename "i" which hides the field declared at line 40.(»Îè‹ÿÿÿÿÿ8¬–©ĞÎ1
+G	java:S106N"+Replace this use of System.out by a logger.(³€ôË8¬–©ĞÎ1
+L	java:S106O"+Replace this use of System.out by a logger.(¡ÜË¥ıÿÿÿÿ8¬–©ĞÎ1

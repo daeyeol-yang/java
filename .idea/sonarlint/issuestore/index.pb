@@ -214,3 +214,13 @@ L
 src/ch07/InstanceofTest.java,d/d/dd611404b19caaeb738a4079541f7eef45ee5c43
 J
 src/ch07/CastingTest2.java,7/8/78fbdf1d8a5148eb50442c87098d860cfcfb3396
+B
+src/ch07/Car1.java,e/0/e0d8a580f0ca6e1970ffd6932748279e69afa8c8
+I
+src/ch07/BindingTest.java,e/2/e2fe23490ab7060b2924d5a6cddca432645e08c7
+J
+src/ch07/BindingTest3.java,b/e/be5b313b34d13be564fb812ce3d3f6abeda1bb8c
+N
+src/ch07/PolyArgumentTest.java,e/b/eb3c04c2a187c66e4c5d83acdf1d3a2acce35e6b
+O
+src/ch07/PolyArgumentTest2.java,c/c/cc94ae9d6bfb86118e4b85320d9bd841fec764db

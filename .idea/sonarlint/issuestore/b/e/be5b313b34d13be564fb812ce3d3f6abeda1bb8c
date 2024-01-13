@@ -1,0 +1,13 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬¥í"8â›ÜÎÎ1
+G	java:S106"+Replace this use of System.out by a logger.(ôæµË8å›ÜÎÎ1
+G	java:S106
+"+Replace this use of System.out by a logger.(òĞˆ‘8æ›ÜÎÎ1
+L	java:S106"+Replace this use of System.out by a logger.(­Ö”©üÿÿÿÿ8æ›ÜÎÎ1
+E
+java:S2387"("x" is the name of a field in "Parent3".(µ¸º8å›ÜÎÎ1
+W
+java:S1161":Add the "@Override" annotation above this method signature(Ìâû 8æ›ÜÎÎ1
+L	java:S106"+Replace this use of System.out by a logger.(­Äªúÿÿÿÿ8ÒÜİÎÎ1
+L	java:S106"+Replace this use of System.out by a logger.(õåúÿÿÿÿ8»ÀßÎÎ1
+L	java:S106"+Replace this use of System.out by a logger.(ì¦œÕşÿÿÿÿ8»ÀßÎÎ1
