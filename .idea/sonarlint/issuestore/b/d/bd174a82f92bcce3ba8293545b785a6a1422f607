@@ -1,0 +1,29 @@
+
+L
+java:S3740"/Provide the parametrized type for this generic.( Ê–»8’¹úƒå1
+L
+java:S3740"/Provide the parametrized type for this generic.(êéœ°8’¹úƒå1
+m
+java:S1104"PMake back a static final constant or non-public and provide accessors if needed.( Ê–»8’¹úƒå1
+o
+java:S1104"RMake foward a static final constant or non-public and provide accessors if needed.(êéœ°8’¹úƒå1
+G
+java:S1444"*Make this "public static back" field final( Ê–»8’¹úƒå1
+I
+java:S1444",Make this "public static foward" field final(êéœ°8’¹úƒå1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡œ¨º8“¹úƒå1
+:
+java:S2386"Make this member "protected".( Ê–»8–¹úƒå1
+:
+java:S2386"Make this member "protected".(êéœ°8–¹úƒå1
+m
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".( Ê–»8—¹úƒå1
+m
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(êéœ°8—¹úƒå1
+L	java:S106"+Replace this use of System.out by a logger.(äòüñûÿÿÿÿ8˜¹úƒå1
+L	java:S106"+Replace this use of System.out by a logger.(äòüñûÿÿÿÿ8˜¹úƒå1
+G	java:S106"+Replace this use of System.out by a logger.(ºÄµÓ8‚¡ƒ„å1
+G	java:S106"+Replace this use of System.out by a logger.(ºÄµÓ8‚¡ƒ„å1
+G	java:S106$"+Replace this use of System.out by a logger.(´øÅ¦8€ë„„å1
+L	java:S106%"+Replace this use of System.out by a logger.(»•«‰ûÿÿÿÿ8€ë„„å1
+L	java:S106&"+Replace this use of System.out by a logger.(ÓÏºïøÿÿÿÿ8´£†„å1
