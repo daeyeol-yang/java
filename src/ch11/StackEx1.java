@@ -30,6 +30,8 @@ public class StackEx1 {
         printStatus();
 
 
+
+
     }
 
     public static void printStatus(){

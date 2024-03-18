@@ -228,3 +228,7 @@ E
 src/ch11/MyStack.java,e/9/e9b460c229624845d11484d9343d5ef541201fb4
 F
 src/ch11/StackEx1.java,b/d/bd174a82f92bcce3ba8293545b785a6a1422f607
+K
+src/ch11/ExpValidCheck.java,2/0/2047de6047f426cb6a4d394f8aa637f8947d8c4c
+N
+src/ch11/StackMethodCheck.java,d/1/d15c0c59f900fdd2ad9a6d8bacf4e9d3659b7c1b
