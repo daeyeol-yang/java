@@ -232,3 +232,5 @@ K
 src/ch11/ExpValidCheck.java,2/0/2047de6047f426cb6a4d394f8aa637f8947d8c4c
 N
 src/ch11/StackMethodCheck.java,d/1/d15c0c59f900fdd2ad9a6d8bacf4e9d3659b7c1b
+F
+src/ch11/QueueEx1.java,e/4/e4f6b077555630b84e9cd273121f6541b850b900
