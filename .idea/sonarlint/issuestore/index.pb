@@ -234,3 +234,5 @@ N
 src/ch11/StackMethodCheck.java,d/1/d15c0c59f900fdd2ad9a6d8bacf4e9d3659b7c1b
 F
 src/ch11/QueueEx1.java,e/4/e4f6b077555630b84e9cd273121f6541b850b900
+M
+src/ch11/PriorityQueueEx.java,a/c/ac8aaf33c70d4b9973b4fdac663b8933df61ae69
